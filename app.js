@@ -41,4 +41,5 @@ const Navbar = ({ activeTab, setActiveTab, isAuthenticated }) => {
   );
 };
 
+
 export default Navbar;
